@@ -16,6 +16,7 @@
     <img align="center" alt="Vitor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img align="center" alt="Vitor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img align="center" alt="Vitor-Java" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Vitor-linkedin" heigt="30" width="40" src=""
     
 <!--
 **vitormenezess/vitormenezess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
