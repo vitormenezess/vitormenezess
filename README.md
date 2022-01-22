@@ -7,7 +7,7 @@
 * 🌱  Estudando Python
 
 <div>
-  <a href="https://beacons.ai/vitormenezess">
+  <a href="https://www.linkedin.com/in/vitor-barbosa-de-menezes-882007225">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormenezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormenezess&layout=compact&langs_count=16&theme=dark"/>
 </div>
