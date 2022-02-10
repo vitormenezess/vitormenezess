@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormenezess&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
     <img align="center" alt="Vitor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img align="center" alt="Vitor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img align="center" alt="Vitor-Java" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
