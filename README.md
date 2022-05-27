@@ -4,7 +4,7 @@
 
 
 * 😉  Windows ponto 
-* 🌱  Estudando Python
+* 🌱  Estudando JavaScript
 
 <div>
   <a href="https://www.linkedin.com/in/vitor-barbosa-de-menezes-882007225" target"_blank">
